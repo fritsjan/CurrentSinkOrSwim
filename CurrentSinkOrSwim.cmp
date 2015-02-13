@@ -1,0 +1,157 @@
+Cmp-Mod V01 Created by Cvpcb 0.201502091101+5410~21~ubuntu14.04.1-product   date = Thu 12 Feb 2015 11:57:22 PM EST
+
+BeginCmp
+TimeStamp = /54DACEE9/54DB1D32;
+Reference = C201;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACF20/54DAF10D;
+Reference = C301;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACF20/54DAF114;
+Reference = C302;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACF0C/54DADCAE;
+Reference = C401;
+ValeurCmp = C;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACEE9/54DB1E38;
+Reference = D201;
+ValeurCmp = DIODE;
+IdModule  = SMD_Packages:SOD-523;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D858EB;
+Reference = P101;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D855F7;
+Reference = P102;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEA02B;
+Reference = P103;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACF0C/54DADC74;
+Reference = Q401;
+ValeurCmp = BUK9575;
+IdModule  = Transistors_TO-220:TO-220_FET-GDS_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACEE9/54DB1D0A;
+Reference = R201;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACEE9/54DB1EC2;
+Reference = R202;
+ValeurCmp = 9K;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACEE9/54DB1F3A;
+Reference = R203;
+ValeurCmp = 1K;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACF20/54DAF11D;
+Reference = R301;
+ValeurCmp = 0;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACF20/54DAF13B;
+Reference = R302;
+ValeurCmp = 27K;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACF20/54DAF142;
+Reference = R303;
+ValeurCmp = 21.6K;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACF0C/54DADC7B;
+Reference = R401;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACF0C/54DAE31B;
+Reference = R402;
+ValeurCmp = 1K;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACF0C/54DADC66;
+Reference = R403;
+ValeurCmp = .1;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM15mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACEE9/54DB1D22;
+Reference = RV201;
+ValeurCmp = POT;
+IdModule  = Potentiometers:Potentiometer_WirePads_largePads;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACF0C/54DADC9B;
+Reference = RV401;
+ValeurCmp = POT;
+IdModule  = Potentiometers:Potentiometer_WirePads_largePads;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACEE9/54DB1D03;
+Reference = U201;
+ValeurCmp = LMV358;
+IdModule  = SMD_Packages:SOIC-8-N;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACF20/54DAF12F;
+Reference = U301;
+ValeurCmp = LM2931D-R;
+IdModule  = SMD_Packages:SOIC-8-N;
+EndCmp
+
+EndListe
