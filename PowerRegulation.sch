@@ -97,8 +97,6 @@ Wire Wire Line
 Wire Wire Line
 	4000 3800 4900 3800
 Connection ~ 4800 3800
-Wire Wire Line
-	4200 2850 4200 3050
 Text Label 6200 4000 2    60   ~ 0
 2.7V
 $Comp
@@ -120,13 +118,13 @@ Connection ~ 6200 2650
 $Comp
 L R R302
 U 1 1 54DAF13B
-P 5650 2900
-F 0 "R302" V 5730 2900 40  0000 C CNN
-F 1 "27K" V 5657 2901 40  0000 C CNN
-F 2 "SMD_Packages:SMD-0805" V 5580 2900 30  0001 C CNN
-F 3 "" H 5650 2900 30  0000 C CNN
-F 4 "Value" H 5650 2900 60  0001 C CNN "MPN"
-	1    5650 2900
+P 5650 2950
+F 0 "R302" V 5730 2950 40  0000 C CNN
+F 1 "27K" V 5657 2951 40  0000 C CNN
+F 2 "SMD_Packages:SMD-0805" V 5580 2950 30  0001 C CNN
+F 3 "" H 5650 2950 30  0000 C CNN
+F 4 "Value" H 5650 2950 60  0001 C CNN "MPN"
+	1    5650 2950
 	-1   0    0    -1  
 $EndComp
 $Comp
@@ -148,8 +146,6 @@ Connection ~ 4800 3850
 Wire Wire Line
 	6200 3850 6200 3650
 Connection ~ 5650 3850
-Wire Wire Line
-	5650 3150 5650 3300
 Wire Wire Line
 	5200 2850 5400 2850
 Wire Wire Line
@@ -179,4 +175,11 @@ Text GLabel 6850 2650 2    60   Input ~ 0
 2.7V
 Text HLabel 3750 2650 0    60   Input ~ 0
 Vin
+Wire Wire Line
+	4200 2850 4200 2950
+Wire Wire Line
+	5650 2700 5650 2650
+Connection ~ 5650 2650
+Wire Wire Line
+	5650 3200 5650 3300
 $EndSCHEMATC

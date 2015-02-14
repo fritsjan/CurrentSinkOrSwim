@@ -93,8 +93,6 @@ Wire Wire Line
 	4500 2950 4500 3900
 Wire Wire Line
 	4500 3900 3950 3900
-Wire Wire Line
-	3950 3800 3950 4000
 Connection ~ 3950 3900
 Wire Wire Line
 	3950 4500 3950 5550
@@ -201,4 +199,6 @@ Current_Sink+
 Text HLabel 9850 5550 2    60   Input ~ 0
 Current_Sink-
 Connection ~ 8700 5550
+Wire Wire Line
+	3950 3800 3950 4000
 $EndSCHEMATC
