@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb 0.201502091101+5410~21~ubuntu14.04.1-product   date = Thu 12 Feb 2015 11:57:22 PM EST
+Cmp-Mod V01 Created by Cvpcb 0.201502091101+5410~21~ubuntu14.04.1-product   date = Sat 14 Feb 2015 05:06:19 PM EST
 
 BeginCmp
 TimeStamp = /54DACEE9/54DB1D32;
@@ -33,6 +33,13 @@ TimeStamp = /54DACEE9/54DB1E38;
 Reference = D201;
 ValeurCmp = DIODE;
 IdModule  = SMD_Packages:SOD-523;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DACF0C/54DFC527;
+Reference = P1;
+ValeurCmp = CONN_01X01;
+IdModule  = Current:FA-T220-38E;
 EndCmp
 
 BeginCmp
