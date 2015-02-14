@@ -4,4 +4,5 @@
 *.log
 *.dcm
 *.kicad_pcb-bak
-*autosave
+*autosave*
+*-cache*
