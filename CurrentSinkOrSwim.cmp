@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb 0.201502091101+5410~21~ubuntu14.04.1-product   date = Sun 15 Feb 2015 06:58:09 PM EST
+Cmp-Mod V01 Created by Cvpcb 0.201502091101+5410~21~ubuntu14.04.1-product   date = Mon 16 Feb 2015 03:19:30 PM EST
 
 BeginCmp
 TimeStamp = /54DACEE9/54DB1D32;
@@ -137,14 +137,14 @@ BeginCmp
 TimeStamp = /54DACEE9/54DB1D22;
 Reference = RV201;
 ValeurCmp = POT;
-IdModule  = Potentiometers:Potentiometer_WirePads_largePads;
+IdModule  = Current:P090L-02F25BR10K;
 EndCmp
 
 BeginCmp
 TimeStamp = /54DACF0C/54DADC9B;
 Reference = RV401;
 ValeurCmp = POT;
-IdModule  = Potentiometers:Potentiometer_WirePads_largePads;
+IdModule  = Current:P090L-02F25BR10K;
 EndCmp
 
 BeginCmp
