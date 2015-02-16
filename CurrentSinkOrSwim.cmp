@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb 0.201502091101+5410~21~ubuntu14.04.1-product   date = Sat 14 Feb 2015 05:06:19 PM EST
+Cmp-Mod V01 Created by Cvpcb 0.201502091101+5410~21~ubuntu14.04.1-product   date = Sun 15 Feb 2015 06:58:09 PM EST
 
 BeginCmp
 TimeStamp = /54DACEE9/54DB1D32;
@@ -46,21 +46,21 @@ BeginCmp
 TimeStamp = /54D858EB;
 Reference = P101;
 ValeurCmp = CONN_01X02;
-IdModule  = Pin_Headers:Pin_Header_Angled_1x02;
+IdModule  = Current:Terminal_Block_200_mil;
 EndCmp
 
 BeginCmp
 TimeStamp = /54D855F7;
 Reference = P102;
 ValeurCmp = CONN_01X03;
-IdModule  = Pin_Headers:Pin_Header_Angled_1x03;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
 EndCmp
 
 BeginCmp
 TimeStamp = /54CEA02B;
 Reference = P103;
 ValeurCmp = CONN_01X02;
-IdModule  = Pin_Headers:Pin_Header_Angled_1x02;
+IdModule  = Current:Terminal_Block_200_mil;
 EndCmp
 
 BeginCmp
