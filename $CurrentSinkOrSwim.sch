@@ -55,7 +55,7 @@ F 2 "Current:TB-01x02" H 8300 1300 60  0001 C CNN
 F 3 "" H 8300 1300 60  0000 C CNN
 F 4 "OSTTC022162" H 8300 1300 60  0001 C CNN "MPN"
 	1    8300 1300
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L CONN_01X03 P102
@@ -78,7 +78,7 @@ F 2 "Current:Pads-01x02" H 3000 850 60  0001 C CNN
 F 3 "" H 3000 850 60  0000 C CNN
 F 4 "OSTTC022162" H 3000 850 60  0001 C CNN "MPN"
 	1    3000 850 
-	-1   0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L GND #PWR01
