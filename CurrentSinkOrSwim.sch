@@ -55,14 +55,14 @@ F 2 "Current:TB-01x02" H 8300 1300 60  0001 C CNN
 F 3 "" H 8300 1300 60  0000 C CNN
 F 4 "OSTTC022162" H 8300 1300 60  0001 C CNN "MPN"
 	1    8300 1300
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L CONN_01X03 P102
 U 1 1 54D855F7
 P 6850 600
 F 0 "P102" H 6850 800 50  0000 C CNN
-F 1 "pwr select" V 6950 600 50  0000 C CNN
+F 1 "pwr sel" V 6950 600 50  0000 C CNN
 F 2 "Pin_Headers:Pin_Header_Straight_1x03" H 6850 600 60  0001 C CNN
 F 3 "" H 6850 600 60  0000 C CNN
 	1    6850 600 
@@ -78,7 +78,7 @@ F 2 "Current:Pads-01x02" H 3000 850 60  0001 C CNN
 F 3 "" H 3000 850 60  0000 C CNN
 F 4 "OSTTC022162" H 3000 850 60  0001 C CNN "MPN"
 	1    3000 850 
-	-1   0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L GND #PWR01
